@@ -5,7 +5,7 @@
     <artifactId>java-sample-failing</artifactId>
     <version>1.0</version>
 
-    <name>java-sample-001</name>
+    <name>java-sample</name>
     <description>Internal project used for QA regression test suite.</description>
 
     <properties>
