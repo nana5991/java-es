@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.meterian.qa.samples</groupId>
-    <artifactId>java-sample-failing</artifactId>
+    <artifactId>java-sample</artifactId>
     <version>1.0</version>
 
     <name>java-sample</name>
