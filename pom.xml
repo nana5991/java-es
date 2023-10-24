@@ -6,7 +6,7 @@
     <version>1.0</version>
 
     <name>java-sample</name>
-    <description>Internal project used for QA regression test suite.</description>
+    <description>Internal project used for QA regression test suite</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
